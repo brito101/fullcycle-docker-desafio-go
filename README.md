@@ -6,14 +6,16 @@
 
 `docker run brito101/fullcycle`
 
-Tamanho da image: 1.77MB
+- Tamanho da imagem: 1.77MB
 
 <div align="center">
     <img src="./images/size.png">
 </div>
 
+- Execução:
+
 <div align="center">
-    <img src="./images/execution.png">
+    <img src="./images/exec.png">
 </div>
 
 #### Desafio:
